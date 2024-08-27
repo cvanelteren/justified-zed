@@ -1,0 +1,9 @@
+id = "justified-zed"
+name = "justified-zed"
+version = "0.0.1"
+schema_version = 1
+authors = ["Casper van Elteren <caspervanelteren@gmail.com"]
+description = "Justify text in Zed"
+repository = "https://github.com/cvanelteren/justified-zed"
+
+

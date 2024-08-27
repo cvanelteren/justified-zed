@@ -1,0 +1,10 @@
+[package]
+name = "zed-justify-text"
+version = "0.1.0"
+edition = "2024"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+zed-extension-api = { git = "https://github.com/zed-industries/zed-extension-api.git" }
